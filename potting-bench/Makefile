@@ -1,0 +1,5 @@
+test:
+	rspec
+
+install:
+	bundle
